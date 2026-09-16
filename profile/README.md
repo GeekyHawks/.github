@@ -30,7 +30,7 @@ We don't just use tools; we master them to build scalable products:
 We spend hundreds of hours maintaining our libraries and tools. If our work has helped you ship faster or solve a complex problem, consider supporting our efforts.
 
 - 🏆 **[Sponsor us on GitHub](https://github.com/sponsors/GeekyHawks)**
-- ☕ **[One-time Support via Stripe](https://buy.stripe.com/5kAdREa4C1032m4288)**
+- ☕ **[One-time Support via Stripe](https://buy.stripe.com/28EfZh6L6eYccK2byH1oI00)**
 
 ---
 
